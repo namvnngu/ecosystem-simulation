@@ -1,8 +1,6 @@
-<p align="center">
-    <img src="logo.svg" />
-</p>
-
 # Ecosystem Stimulation
+
+<img width="160" align="right" src="logo.svg" />
 
 **The project "Ecosystem Stimulation" inspired by some game developers on Youtube give a small view of my own simple forest. :deciduous_tree:**
 
